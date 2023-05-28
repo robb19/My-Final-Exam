@@ -14,7 +14,7 @@ background-color: black;
     background-color: rgb(172, 146, 109);
 }
 .myfooter{
-    margin-top: 300px;
+    margin-top: 150px;
 }
 .nav-link{
     color: rgb(255, 255, 255);
@@ -42,4 +42,19 @@ text-decoration: none;
 }
 .nav-link:hover{
     color: black;
+}
+.contai{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+.mc{
+    border-bottom: 1px  solid black;
+    text-align: center;
+}
+.mc1{
+    
+    text-align: center;
 }
